@@ -1,0 +1,252 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+body::after {
+    content: '';
+    background-color: #353a49;
+    width: 100%;
+    height: 436px;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+/* header */
+div.container-header {
+    max-width: 1920px;
+    margin: 0 auto;        
+    padding: 15px;
+}
+
+header {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+
+h1 a {
+    text-decoration: none;
+    color: #000;
+}
+
+header div nav, ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+nav ul {
+    list-style: none;
+    gap: 5em;
+}
+
+nav ul a {
+    text-decoration: none;
+    color: #5f6066;
+
+}
+nav ul a:hover {
+    color: #000;
+}
+/* fim header */
+
+/* section */
+
+section.description {
+    max-width: 417px;
+    margin: 0 auto;
+    padding-top: 140px;
+    text-align: center;
+}
+
+section.description h2 {
+    font-size: 45px;
+    font-family: 'Staatliches', cursive;
+    font-weight: 200;
+    color: #ffffff;
+}
+
+section.description p {
+    color: #ffffff;
+}
+/* fim section */
+
+/*main */
+
+main {
+    min-height: 1084px;
+    max-width: 750px;
+
+    margin: 60px auto;
+    
+    background-color: white;
+    border-radius: 30px 30px 0 0;
+    box-shadow: 0px -8px 75px -19px rgba(0,0,0,0.52);
+}
+
+/* fim main */
+
+/* form */
+form {
+    padding: 50px;
+}
+
+fieldset, legend {
+    border: none;
+    font-family: 'Staatliches', cursive; 
+    
+    font-size: 24px;
+    color: #535971;
+}
+
+
+fieldset {
+
+    border-bottom: 1px solid #E6E6F0;
+    padding: 5px;
+}
+
+input {
+    background: #FAFAFC;
+    border: 1px solid #E6E6F0;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+label {
+    font-size: 14px;
+}
+span {
+    color: #65666b;
+    font-size: 12px;
+}
+
+.input-flex {
+    display: flex;
+}
+
+.input-wrapper {
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 20px;
+}
+
+.input-wrapper input {
+    margin-top: 10px;
+}
+
+.input-wrapper label {
+    padding-top: 10px;
+}
+/* fim congigurações forms */
+
+/* informações pessoais */
+
+.first-name input, 
+.sobrename input {
+    width: 300px;
+    height: 50px;
+}
+
+.first-name, .sobrename {
+    margin-top: 40px;
+}
+
+.sobrename {
+    padding-left: 50px;
+}
+/* informações mentor */
+
+.information-mentor {
+    padding-top: 20px;
+    
+}
+/* fim informações mentor */
+
+
+/* marcar o dia */
+
+.agended-hours{
+    margin-top: 30px;
+}
+
+.agended-hours legend {
+    padding: 15px 0 10px 0;
+
+}
+
+.date-checked input {
+    width: 300px;
+}
+
+
+.start-time {
+    margin-left: 30px;
+}
+
+.finish-time input{
+    margin-left: 10px;
+}
+
+.start-time input,
+.finish-time input {
+    width: 140px;
+}
+
+.start-time label,
+.finish-time label {
+    margin-left: 9px;
+}
+
+/* foot */
+
+.bd {
+    width: 750px;
+    height: 150px;
+
+    
+    border-radius: 0 0 30px 30px;
+    background-color: #535971;
+    
+    margin: 0 auto;
+}
+
+button {
+    width: 608px;
+    height: 50px;
+    
+    margin: 50px 71px 50px 71px;
+    color: #ffffff;
+    
+    background-color: #FF5374;
+    border: none;
+    border-radius: 20px ;
+
+    font-weight: bold;
+    text-transform: uppercase;
+    
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+button:hover {
+
+    background-color: #b8435a;
+}
+
