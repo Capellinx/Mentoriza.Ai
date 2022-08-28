@@ -18,7 +18,7 @@
 
 ## 📲 Links
 
-- Live Site URL: https://tranquil-florentine-5fd8c1.netlify.app
+- Live Site URL: https://guileless-rugelach-b182c5.netlify.app/
 
 # 💻 Meu processo
 
