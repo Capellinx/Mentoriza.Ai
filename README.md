@@ -1,6 +1,6 @@
 <h1 align="center">Mentoriza.Ai</h1>    
 
-<h3>Desafio foi proposto pela @RcoketSeat, porém de inicio era só para fazer a parte de formulário e eu quis dar uma encrementada no projeto e deixar-lo com uma perspectiva diferente </h3>
+<h3>Desafio foi proposto pela @RcoketSeat, porém de inicio era só para fazer a parte de formulário e eu quis dar uma incrementada no projeto e deixar-lo com uma perspectiva diferente </h3>
 
 ## 📚 Os usuários devem ser capazes de:
 
