@@ -17,7 +17,7 @@
 
 ## 📲 Links
 
-- Live Site URL: https://guileless-rugelach-b182c5.netlify.app/https://www.figma.com/file/y5WjRWbSBgSllgkmkrX8Lh/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)-(Copy)?node-id=0%3A1
+- Live Site URL:https://guileless-rugelach-b182c5.netlify.app/
 
 - Live Figma project: https://www.figma.com/file/y5WjRWbSBgSllgkmkrX8Lh/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)-(Copy)?node-id=0%3A1
 
